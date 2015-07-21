@@ -1,0 +1,5 @@
+C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLWrapper\LoLWrapper\bin\Debug\LoLWrapper.dll
+C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLWrapper\LoLWrapper\bin\Debug\LoLWrapper.pdb
+C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLWrapper\LoLWrapper\obj\Debug\LoLWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLWrapper\LoLWrapper\obj\Debug\LoLWrapper.dll
+C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLWrapper\LoLWrapper\obj\Debug\LoLWrapper.pdb
