@@ -14,5 +14,6 @@
 #include <stdio.h>
 #include <wchar.h>
 #include <string>
+#include <iostream>
 
 // TODO: Hier auf zusätzliche Header, die das Programm erfordert, verweisen.
