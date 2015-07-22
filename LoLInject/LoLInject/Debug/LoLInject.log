@@ -1,15 +1,19 @@
-﻿Der Buildvorgang wurde am 22.07.2015 20:52:36 gestartet.
-     1>Projekt "C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLInject\LoLInject\LoLInject.vcxproj" auf Knoten "2", Build Ziel(e).
+﻿Build started 7/22/2015 10:07:37 PM.
+     1>Project "D:\Git\1377-lol\LoLInject\LoLInject\LoLInject.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         D:\Programme (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LOLINJECT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LOLINJECT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\LoLInject.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LOLINJECT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
          dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LOLINJECT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LoLInject.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LoLInject.cpp
+         LoLInject.cpp
        Link:
-         D:\Programme (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLInject\Debug\LoLInject.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLInject\Debug\LoLInject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLInject\Debug\LoLInject.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git\1377-lol\LoLInject\Debug\LoLInject.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Git\1377-lol\LoLInject\Debug\LoLInject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git\1377-lol\LoLInject\Debug\LoLInject.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
          Debug\LoLInject.obj
          Debug\stdafx.obj
-         LoLInject.vcxproj -> C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLInject\Debug\LoLInject.dll
-     1>Die Erstellung des Projekts "C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\LoLInject\LoLInject\LoLInject.vcxproj" ist abgeschlossen, Build Ziel(e).
+         LoLInject.vcxproj -> D:\Git\1377-lol\LoLInject\Debug\LoLInject.dll
+     1>Done Building Project "D:\Git\1377-lol\LoLInject\LoLInject\LoLInject.vcxproj" (Build target(s)).
 
-Build erfolgreich.
+Build succeeded.
 
-Verstrichene Zeit 00:00:00.69
+Time Elapsed 00:00:01.67

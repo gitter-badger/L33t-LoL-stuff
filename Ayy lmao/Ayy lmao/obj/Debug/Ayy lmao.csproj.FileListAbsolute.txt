@@ -1,1 +1,9 @@
 C:\Users\Fabian\Documents\GitHub\L33t-LoL-stuff\Ayy lmao\Ayy lmao\bin\Debug\Ayy lmao.exe.config
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\bin\Debug\Ayy lmao.exe.config
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\bin\Debug\Ayy lmao.exe
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\bin\Debug\Ayy lmao.pdb
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\bin\Debug\LoLWrapper.dll
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\bin\Debug\LoLWrapper.pdb
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\obj\Debug\Ayy lmao.csprojResolveAssemblyReference.cache
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\obj\Debug\Ayy lmao.exe
+D:\Git\1377-lol\Ayy lmao\Ayy lmao\obj\Debug\Ayy lmao.pdb
